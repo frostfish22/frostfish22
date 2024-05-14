@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frostfish22&theme=dark&layout=compact)
 
-[![frostfish22's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frostfish22)](https://github.com/anuraghazra/github-readme-stats)
+[![frostfish22's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frostfish22)](https://github.com/frostfish22/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frostfish22/frostfish22/output/github-contribution-grid-snake-dark.svg">
