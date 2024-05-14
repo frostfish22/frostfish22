@@ -19,6 +19,74 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frostfish22&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 456 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                21 commits          █████████████████░░░░░░░░   67.74 % 
+🌆 Daytime                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+🌃 Evening                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Tuesday                  18 commits          ███████████████░░░░░░░░░░   58.06 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C++                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+
+ Last Updated on 14/05/2024 18:48:31 UTC
 <!--END_SECTION:waka-->
 
 <picture>
