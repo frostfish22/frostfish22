@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frostfish22&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 475 Bytes Used in GitHub's Storage 
+> 📦 474 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +93,7 @@ C++                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 20/05/2024 18:35:55 UTC
+ Last Updated on 21/05/2024 18:35:52 UTC
 <!--END_SECTION:waka-->
 
 <picture>
