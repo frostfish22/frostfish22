@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 > 📦 1.8 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -96,7 +94,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 18:36:18 UTC
+ Last Updated on 16/06/2024 18:36:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
