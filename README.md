@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frostfish22&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,17 @@ Sunday                   7 commits           ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 min               ████████████████████░░░░░   80.95 % 
+TypeScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-app                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -85,7 +86,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 18:35:52 UTC
+ Last Updated on 23/06/2024 18:35:21 UTC
 <!--END_SECTION:waka-->
 
 <picture>
