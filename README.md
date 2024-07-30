@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frostfish22&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -60,16 +60,22 @@ Sunday                   7 commits           ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GitIgnore file           16 mins             █████████████████░░░░░░░░   68.16 % 
+JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            22 mins             ██████████████████████░░░   89.52 % 
+VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          20 mins             █████████████████████░░░░   84.32 % 
+frostfishc22             3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -85,7 +91,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 29/07/2024 18:38:17 UTC
+ Last Updated on 30/07/2024 18:38:19 UTC
 <!--END_SECTION:waka-->
 
 <picture>
