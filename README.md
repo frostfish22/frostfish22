@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,7 +93,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 31/07/2024 18:39:05 UTC
+ Last Updated on 01/08/2024 18:38:36 UTC
 <!--END_SECTION:waka-->
 
 <picture>
